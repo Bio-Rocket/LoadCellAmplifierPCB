@@ -1,0 +1,9 @@
+[submodule "PCBLayerStackups"]
+	path = PCBLayerStackups
+	url = https://github.com/Bio-Rocket/PCBLayerStackups.git
+[submodule "PCBDesignRules"]
+	path = PCBDesignRules
+	url = https://github.com/Bio-Rocket/PCBDesignRules.git
+[submodule "PCBLibraries"]
+	path = PCBLibraries
+	url = https://github.com/Bio-Rocket/PCBLibraries.git
