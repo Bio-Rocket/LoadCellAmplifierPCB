@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [LoadCellAmplifierPCB.PrjPcb]
+   Generated File[LoadCellAmplifier.TXT]
+   Generated File[LoadCellAmplifier.DRL]
+   Generated File[LoadCellAmplifier.LDP]
+   Generated File[LoadCellAmplifier.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 9:39:29 AM On 2025-06-17
